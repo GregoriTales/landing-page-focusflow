@@ -2,7 +2,7 @@
 
 > Landing page para o aplicativo de produtividade fictício FocusFlow, desenvolvida com HTML, CSS e JavaScript.
 
-![Preview da Landing Page FocusFlow](assents/focusflow-preview.jpg)
+![Preview da Landing Page FocusFlow](favicon-32x32.png)
 
 ---
 
